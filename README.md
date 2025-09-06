@@ -1,2 +1,2 @@
 # yann
-评论
+Comments repo with beaudar for blog.
